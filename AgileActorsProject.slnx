@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="AgileActorsProject.Tests/AgileActorsProject.Tests.csproj" Id="fc17e622-26ff-4f81-8224-0adc8e3e4634" />
+  </Folder>
+  <Project Path="AgileActorsProject.Application/AgileActorsProject.Application.csproj" />
+  <Project Path="AgileActorsProject.Domain/AgileActorsProject.Domain.csproj" />
+  <Project Path="AgileActorsProject.Infrastructure/AgileActorsProject.Infrastructure.csproj" />
+  <Project Path="AgileActorsProject/AgileActorsProject.WebAPI.csproj" />
+</Solution>
